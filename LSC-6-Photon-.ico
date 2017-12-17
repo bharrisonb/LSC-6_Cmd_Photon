@@ -6,7 +6,7 @@
 /* Servo control for LewanSoul LeArn  */
  
 /* Arm dimensions( mm ) */
-#define BASE_HGT 89.00      //base hieight (from black plate base)
+#define BASE_HGT 89.00      //base height (from black plate base)
 #define HUMERUS 105.00      //shoulder-to-elbow "bone" 
 #define ULNA 88.00          //elbow-to-wrist "bone" 
 #define GRIPPER 118.0       //gripper wrist to tip of gripper ,when closed
